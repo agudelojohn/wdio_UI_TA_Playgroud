@@ -24,5 +24,9 @@
     "@wdio/spec-reporter": "^8.1.2",
     "chromedriver": "^109.0.0",
     "wdio-chromedriver-service": "^8.0.1"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
   }
 }
